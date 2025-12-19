@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Voyage, Voyage",
+  "base_artist": "DESIRELESS",
+  "createdAt": "2025-12-19T19:06:05.499619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/01_Voyage_Voyage_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/02_Voyage_Voyage_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Voyage voyage",
+      "artist": "Desireless",
+      "has_synced": true,
+      "path": "select/03_Voyage_voyage_Desireless.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Gregorian",
+      "has_synced": false,
+      "path": "select/04_Voyage_Voyage_Gregorian.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Desireless",
+      "has_synced": true,
+      "path": "select/05_Voyage_Voyage_Desireless.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Voyage, Voyage",
+      "artist": "Desireless",
+      "has_synced": true,
+      "path": "select/06_Voyage,_Voyage_Desireless.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Desireless",
+      "has_synced": true,
+      "path": "select/07_Voyage_Voyage_Desireless.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Voyage, voyage (extended remix)",
+      "artist": "Desireless",
+      "has_synced": false,
+      "path": "select/08_Voyage,_voyage_(extended_remix)_Desireless.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/09_Voyage_Voyage_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "The Nightflyer",
+      "has_synced": true,
+      "path": "select/10_Voyage_Voyage_The_Nightflyer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Voyage, Voyage",
+      "artist": "Nightflyer",
+      "has_synced": true,
+      "path": "select/11_Voyage,_Voyage_Nightflyer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Voyage, voyage (Britmix)",
+      "artist": "Desireless",
+      "has_synced": true,
+      "path": "select/12_Voyage,_voyage_(Britmix)_Desireless.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vuela, Vuela (Voyage, Voyage) - En Vivo",
+      "artist": "Magneto & Mercurio",
+      "has_synced": true,
+      "path": "select/13_Vuela,_Vuela_(Voyage,_Voyage)_-_En_Vivo_Magneto_&_Mercurio.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vuela, Vuela (Voyage, Voyage) (Live)",
+      "artist": "Magneto; Mercurio",
+      "has_synced": true,
+      "path": "select/14_Vuela,_Vuela_(Voyage,_Voyage)_(Live)_Magneto;_Mercurio.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/15_Voyage_Voyage_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Voyage Voyage",
+      "artist": "Desireless",
+      "has_synced": true,
+      "path": "select/16_Voyage_Voyage_Desireless.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Vuela, Vuela (Voyage, Voyage) (Dance Remix)",
+      "artist": "Magneto",
+      "has_synced": true,
+      "path": "select/17_Vuela,_Vuela_(Voyage,_Voyage)_(Dance_Remix)_Magneto.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Vuela, Vuela (Voyage, Voyage)",
+      "artist": "Magneto",
+      "has_synced": true,
+      "path": "select/18_Vuela,_Vuela_(Voyage,_Voyage)_Magneto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Voyage, Voyage",
+      "artist": "Desireless",
+      "has_synced": false,
+      "path": "select/pl_01_Voyage,_Voyage_Desireless.txt"
+    }
+  ]
+}
